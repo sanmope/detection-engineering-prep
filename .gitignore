@@ -1,0 +1,2 @@
+.env
+*.csv # los CSVs de datos tampoco deben subirse
